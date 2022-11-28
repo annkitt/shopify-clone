@@ -7,7 +7,7 @@
 ![Html ,tailwind](https://img.shields.io/badge/Html%20-tailwind-neon)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh-Choudhary-lightgrey)
 
-## Shopify clone [Live link]()
+## Shopify clone [Live link](https://shopifyclonee.netlify.app/)
 
 ## Time Taken to Complete this project
     - 12 Hours taken to Complete it.
